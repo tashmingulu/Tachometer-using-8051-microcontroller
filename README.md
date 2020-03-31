@@ -24,5 +24,7 @@ Software:
   - Keil uvision
   - Proteus 
   
+Circuit Diagram and connection details is mentioned in Project Report.
+  
 
 
