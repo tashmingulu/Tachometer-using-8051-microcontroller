@@ -26,6 +26,3 @@ Software:
   
 Circuit Diagram and connection details is mentioned in Project Report.
   
-
-
-kgkh
